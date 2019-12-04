@@ -9,8 +9,14 @@ A simple way to manage and synchronize all of my [VS Code](https://code.visualst
 
 ## Installation
 
+via SSH:
 ```
 git clone git@github.com:sodonnell/vscode-extensions.git
+```
+
+via HTTPS:
+```
+git clone https://github.com/sodonnell/vscode-extensions.git
 ```
 
 ## Usage
