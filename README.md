@@ -1,6 +1,6 @@
 # vscode-extensions
 
-A simple way to manage and synchronize all of my vscode-extensions across multiple MacOS development workstations (i.e. Macbook Pro/iMac) for my work and personal projects.
+A simple way to manage and synchronize all of my vscode-extensions across multiple MacOS development workstations (i.e. Macbook Pros/iMacs) for my work and personal projects.
 
 ## Requirements
 
