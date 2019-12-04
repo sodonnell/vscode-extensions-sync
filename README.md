@@ -23,6 +23,10 @@ chmod +x install.extensions.sh
 
 ## Updating extensions.txt
 
+Before updating the extensions.txt file, be sure to first run the ``install.extensions.sh`` script. Doing so will ensure that the device is synchronized with the current extensions.txt list.
+
+Then, you can run the following commands to update the repo with new extesnions that may have previously existed on your current workstation, before you synchronized it with the repo.
+
 ```
 code --list-extensions > extensions.txt
 git commit -m "updated extensions.txt" .
