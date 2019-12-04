@@ -1,6 +1,6 @@
 # vscode-extensions
 
-A simple way to manage and synchronize all of my vscode-extensions across multiple MacOS development workstations (i.e. Macbook Pros/iMacs) for my work and personal projects.
+A simple way to manage and synchronize all of my [VS Code](https://code.visualstudio.com/download) extensions across multiple MacOS development workstations (i.e. Macbook Pros/iMacs) for my work and personal projects.
 
 ## Requirements
 
@@ -28,3 +28,5 @@ code --list-extensions > extensions.txt
 git commit -m "updated extensions.txt" .
 git push origin master
 ```
+
+Feel free to add to this list, but please don't remove items from the list of extensions, unless they are otherwise malicious or super buggy.
