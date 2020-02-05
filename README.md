@@ -2,6 +2,8 @@
 
 A simple way to synchronize [VS Code](https://code.visualstudio.com/download) extensions across multiple (work/personal) MacOS and Linux development machines.
 
+*Disclaimer:* I've only tested this on MacOS machines, but it 'should' also work for Linux desktop users, as well.
+
 ## Requirements
 
 * [VS Code](https://code.visualstudio.com/download)
