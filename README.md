@@ -1,6 +1,6 @@
 # vscode-extensions
 
-A simple way to manage and synchronize all of my [VS Code](https://code.visualstudio.com/download) extensions across multiple MacOS development workstations (i.e. Macbook Pros/iMacs) for my work and personal projects.
+A simple way to synchronize [VS Code](https://code.visualstudio.com/download) extensions across multiple (work/personal) MacOS and Linux development machines.
 
 ## Requirements
 
