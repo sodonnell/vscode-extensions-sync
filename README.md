@@ -1,10 +1,8 @@
 # vscode-extensions
 
-A simple way to synchronize [VS Code](https://code.visualstudio.com/download) extensions across multiple (personal/work) computers.
+A simple way to synchronize [VS Code](https://code.visualstudio.com/download) extensions across multiple (personal/work) computers. You can also use this script to update all installed extensions when updates are made available to those extensions.
 
 *This script is intended for MacOS and Linux desktops.*
-
-This script can also be run to update all installed extensions when updates are made available to the extensions.
 
 ## Requirements
 
