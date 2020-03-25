@@ -1,8 +1,10 @@
 # vscode-extensions
 
-A simple way to synchronize [VS Code](https://code.visualstudio.com/download) extensions across multiple (work/personal) MacOS and Linux development machines.
+A simple way to synchronize [VS Code](https://code.visualstudio.com/download) extensions across multiple (personal/work) computers.
 
-*Disclaimer:* I've only tested this on MacOS machines, but it 'should' also work for Linux desktop users, as well.
+*This script is intended for MacOS and Linux desktops.*
+
+This script can also be run to update all installed extensions when updates are made available to the extensions.
 
 ## Requirements
 

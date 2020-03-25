@@ -13,7 +13,7 @@ fi
 echo -e "Synchronizing VS Code Extensions...\n"
 
 for i in `cat extensions.txt`; do
-  code --install-extension ${i}
+  code --force --install-extension ${i}
 done
 
 echo -e "Done.\n"
