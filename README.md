@@ -6,8 +6,8 @@ A simple way to synchronize [VS Code](https://code.visualstudio.com/download) ex
 
 ## Requirements
 
-* [VS Code](https://code.visualstudio.com/download)
-* [VS Code CLI Tool for MacOS](https://code.visualstudio.com/docs/setup/mac)
+* [VS Code](https://code.visualstudio.com/download) (Linux/MacOS)
+* [VS Code CLI Tool](https://code.visualstudio.com/docs/setup/mac) (MacOS Only)
 
 ## Installation
 
