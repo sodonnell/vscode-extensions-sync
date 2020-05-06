@@ -23,22 +23,23 @@ git clone https://github.com/sodonnell/vscode-extensions.git
 
 ## Usage
 
+### Installing/Synchronizing Extensions
+
 
 ```
-chmod +x install.extensions.sh
-./install.extensions.sh
+bash install.extensions.sh
 ```
 
-## Updating extensions.txt
+### Updating the extensions.txt list
 
-Before updating the extensions.txt file, be sure to first run the ``install.extensions.sh`` script. Doing so will ensure that the device is synchronized with the current extensions.txt list.
+If you've installed extensions that are not listed in the extensions.txt file, and would like to sync other machines to use those extensions, then you should consider updating the extensions.txt file, before synchronizing the other machines.
 
-Then, you can run the following commands to update the repo with new extesnions that may have previously existed on your current workstation, before you synchronized it with the repo.
+***Note:** Before updating the extensions.txt file, be sure to first run the ``install.extensions.sh`` script. Doing so will ensure that the device is synchronized with the current extensions.txt list.*
+
+Then, you can run the following script:
 
 ```
-code --list-extensions > extensions.txt
-git commit -m "updated extensions.txt" .
-git push origin master
+bash update.extensions.sh
 ```
 
 Feel free to add to this list, but please don't remove items from the list of extensions, unless they are otherwise malicious or super buggy.

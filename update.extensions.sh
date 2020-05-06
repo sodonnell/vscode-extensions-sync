@@ -10,13 +10,8 @@ if [ -z $CODE ]; then
   exit
 fi
 
-echo -e "Synchronizing VS Code Extensions...\n"
+echo -e "Updating VS Code Extensions...\n"
 
-# get the latest extensions.txt file via git.
-git pull 
+#cp -f extensions.txt extensions.bak
 
-for i in `cat extensions.txt`; do
-  ${CODE} --force --install-extension ${i}
-done
-
-echo -e "Done.\n"
+${CODE} --list-extensions > extensions.txt
