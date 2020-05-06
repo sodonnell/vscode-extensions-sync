@@ -53,7 +53,5 @@ VisualStudioExptTeam.vscodeintellicode
 vscjava.vscode-maven
 vscoss.vscode-ansible
 wholroyd.jinja
-XebiaLabs.vscode-devops-as-code
-yamajyn.commandlist
 yzane.markdown-pdf
 yzhang.markdown-all-in-one
