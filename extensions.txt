@@ -26,6 +26,7 @@ jitcoder.es-query
 johnpapa.winteriscoming
 KnisterPeter.vscode-github
 lonefy.vscode-JS-CSS-HTML-formatter
+mads-hartmann.bash-ide-vscode
 magicstack.MagicPython
 mauve.terraform
 mkaufman.HTMLHint
@@ -40,6 +41,7 @@ mtxr.sqltools
 redhat.vscode-yaml
 ria.elastic
 sdras.night-owl
+shakram02.bash-beautify
 sidthesloth.html5-boilerplate
 VisualStudioExptTeam.vscodeintellicode
 vscoss.vscode-ansible

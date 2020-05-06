@@ -12,6 +12,6 @@ fi
 
 echo -e "Updating VS Code Extensions...\n"
 
-#cp -f extensions.txt extensions.bak
+cp -f extensions.txt extensions.bak
 
 ${CODE} --list-extensions > extensions.txt
