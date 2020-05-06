@@ -26,6 +26,7 @@ humao.rest-client
 ikappas.phpcs
 JFrog.jfrog-vscode-extension
 jitcoder.es-query
+jithurjacob.nbpreviewer
 johnpapa.winteriscoming
 KnisterPeter.vscode-github
 lonefy.vscode-JS-CSS-HTML-formatter
@@ -41,6 +42,7 @@ ms-vscode-remote.remote-containers
 ms-vscode.cpptools
 ms-vscode.Go
 mtxr.sqltools
+njpwerner.autodocstring
 redhat.vscode-yaml
 ria.elastic
 rogalmic.bash-debug
