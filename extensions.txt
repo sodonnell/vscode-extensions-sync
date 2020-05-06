@@ -19,6 +19,7 @@ felixfbecker.php-debug
 felixfbecker.php-intellisense
 felixfbecker.php-pack
 formulahendry.code-runner
+foxundermoon.shell-format
 GrapeCity.gc-excelviewer
 humao.rest-client
 ikappas.phpcs
@@ -40,6 +41,7 @@ ms-vscode.Go
 mtxr.sqltools
 redhat.vscode-yaml
 ria.elastic
+rogalmic.bash-debug
 sdras.night-owl
 shakram02.bash-beautify
 sidthesloth.html5-boilerplate
@@ -47,5 +49,6 @@ VisualStudioExptTeam.vscodeintellicode
 vscoss.vscode-ansible
 wholroyd.jinja
 XebiaLabs.vscode-devops-as-code
+yamajyn.commandlist
 yzane.markdown-pdf
 yzhang.markdown-all-in-one
