@@ -10,6 +10,7 @@ bierner.markdown-preview-github-styles
 bmewburn.vscode-intelephense-client
 DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
+donjayamanne.jupyter
 donjayamanne.python-extension-pack
 dracula-theme.theme-dracula
 eamodio.gitlens
@@ -23,6 +24,7 @@ foxundermoon.shell-format
 GrapeCity.gc-excelviewer
 humao.rest-client
 ikappas.phpcs
+JFrog.jfrog-vscode-extension
 jitcoder.es-query
 johnpapa.winteriscoming
 KnisterPeter.vscode-github
@@ -46,6 +48,7 @@ sdras.night-owl
 shakram02.bash-beautify
 sidthesloth.html5-boilerplate
 VisualStudioExptTeam.vscodeintellicode
+vscjava.vscode-maven
 vscoss.vscode-ansible
 wholroyd.jinja
 XebiaLabs.vscode-devops-as-code
